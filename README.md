@@ -54,3 +54,5 @@ https://the-mealler.herokuapp.com/
  
  ## Edamam API
  ![Edamam## Code Snippet ](https://github.com/medcoguy/GitTesting/blob/master/images/edamam.PNG)
+
+<h1> Notes: Cors protection will block this application from functioning, and you will need a plugin for the full application to be tested. <h1>
